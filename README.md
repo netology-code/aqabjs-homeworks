@@ -8,6 +8,6 @@
 
 Любые вопросы по решению задач задавайте в чате Slack.
 
-[Знакомство с JavaScript: часть 1]()
+[Знакомство с JavaScript: часть 1](https://github.com/netology-code/aqabjs-homeworks/blob/main/First.md)
 
-[ Знакомство с JavaScript: часть 2]()
+[Знакомство с JavaScript: часть 2](https://github.com/netology-code/aqabjs-homeworks/blob/main/Second.md)
